@@ -1,4 +1,5 @@
 # devops-project
+# devops-project1: Infrastructure as Code
 ## Tools involved: Terraform, Ansible, Git
 ## Objectives: 
 - Use Terraform to provision an EC2 instance in a new created VPC and with appropriate security groups attached to allow ssh access in AWS
