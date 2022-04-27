@@ -1,11 +1,11 @@
 # devops-project
 ## Tools involved: Terraform, Ansible, Git
 ## Objectives: 
-Use Terraform to provision an EC2 instance in a new created VPC and with appropriate security groups attached to allow ssh access in AWS
-Terraform to call Ansible to install the following applications on the instance
-* Java openjdk
-* Jenkins
-* Python
+- Use Terraform to provision an EC2 instance in a new created VPC and with appropriate security groups attached to allow ssh access in AWS
+- Terraform to call Ansible to install the following applications on the instance
+   * Java openjdk
+   * Jenkins
+   * Python
 
 ## Setup:
 * Installed Terraform on my local machine
